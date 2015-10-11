@@ -1,6 +1,5 @@
 name: EgressPoint
 favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.32857
 cta:
   domain: null
@@ -27,5 +26,5 @@ color:
   rhythmicContrast: 0.25
 purpose:
   - name: awareness
-    item: null
+    item: b5448d40-ca2d-483b-a861-d73ec7b4aeae
     url: null
