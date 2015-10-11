@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EgressPoint]]></title>
+        <description><![CDATA[EgressPoint]]></description>
+        <link>https://thegrid.ai/egresspoint/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 11 Oct 2015 16:40:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future Of The Web Beyond Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Future Of The Web Beyond Bitcoin</h1><p>Existing social media such as Facebook and Twitter, are about the consumption of content, it has already replaced books, TV and newspapers to name a few. The web started as "access to information", then slowly people started using it as a "space of interaction" adding a more human aspect to it.</p><img src="http://www.iafrikan.com/content/images/2015/10/The-Future.jpg"></article>]]></description>
+            <link>http://www.iafrikan.com/2015/10/04/the-future-of-the-web-beyond-bitcoin/</link>
+            <guid isPermaLink="false">b180e31d-5c96-4d58-8b7b-e0de575ac7e7</guid>
+            <pubDate>Sun, 11 Oct 2015 16:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/egresspoint/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">6d67d956-5dfd-4a38-bf3d-f6898b038ab0</guid>
+            <pubDate>Sun, 11 Oct 2015 15:13:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
