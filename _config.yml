@@ -22,9 +22,9 @@ color:
     - '#5f666e'
     - '#ffb2ae'
   brandStrength: 0.4375
-  lightness: 0.4375
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose:
   - name: awareness
     item: f6fe57fc-2fc5-4252-9910-bc17985bd88e
