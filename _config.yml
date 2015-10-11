@@ -1,6 +1,7 @@
 name: EgressPoint
 favicon: null
-layout_spectrum: 0.48776
+layout_spectrum: 0
+typography_spectrum: 0.32857
 cta:
   domain: null
   bucket: null
@@ -22,7 +23,7 @@ color:
     - '#ffb2ae'
   brandStrength: 0.875
   lightness: 0.3125
-  saturation: 0.5
+  saturation: 0.875
   rhythmicContrast: 0.25
 purpose:
   - name: awareness
