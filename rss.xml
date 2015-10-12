@@ -5,8 +5,22 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 16:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 01:37:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Frontier]]></title>
+            <description><![CDATA[<article><h1>Ethereum Frontier</h1><p>Now it's your turn: start building what you dream of creating in Ethereum! Could your business be enhanced by operating on a cryptographically secure, decentralized, tamper proof network? Check out the many great projects already building on Ethereum.</p><img src="https://ethereum.org/images/wallpaper-medium.jpg"></article>]]></description>
+            <link>https://www.ethereum.org/</link>
+            <guid isPermaLink="false">14bbcf7f-adf1-48dd-a81a-649bd6b1ce77</guid>
+            <pubDate>Mon, 12 Oct 2015 01:37:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ethereum is here....</p>]]></description>
+            <link>https://thegrid.ai/egresspoint/67189ea5-00a4-4736-997e-ee03337b0fb5/index.html</link>
+            <guid isPermaLink="false">67189ea5-00a4-4736-997e-ee03337b0fb5</guid>
+            <pubDate>Mon, 12 Oct 2015 01:32:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Decentralized Prediction Market | Augur Project]]></title>
             <description><![CDATA[<article><h1>Decentralized Prediction Market | Augur Project</h1><p>Augur is a decentralized prediction market built on the Ethereum blockchain. It allows you to forecast events and be rewarded for predicting them correctly.</p><img src="http://res.cloudinary.com/hrscywv4p/image/upload/c_fill,g_faces:center,h_300,q_90,w_300/v1/246140/android-chrome-192x192_sg3vsj.png"></article>]]></description>
