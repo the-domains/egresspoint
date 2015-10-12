@@ -5,8 +5,15 @@
         <description><![CDATA[To The Moon!]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 16:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 16:26:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Crowdsale, What's New and What's Next]]></title>
+            <description><![CDATA[<article><h1>The Crowdsale, What's New and What's Next</h1><p>Augur's future after the crowdsale.</p><img src="http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,fl_progressive,h_1500,q_90,w_2000/v1/428927/f2_j92ldl_1_qy9ky9.jpg"></article>]]></description>
+            <link>http://www.augur.net/blog/the-crowdsale-what-s-new-and-what-s-next</link>
+            <guid isPermaLink="false">7f4f0593-5dbd-4f5c-b794-99dce49c5377</guid>
+            <pubDate>Mon, 12 Oct 2015 16:25:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Counterparty]]></title>
             <description><![CDATA[<article><h1>Counterparty</h1><p>Pioneering peer-to-peer finance</p><img src="http://counterparty.io/wp-content/uploads/2014/12/stage-home.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.ethereum.org/</link>
             <guid isPermaLink="false">14bbcf7f-adf1-48dd-a81a-649bd6b1ce77</guid>
             <pubDate>Mon, 12 Oct 2015 01:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>ethereum is here....</p>]]></description>
-            <link>https://thegrid.ai/egresspoint/67189ea5-00a4-4736-997e-ee03337b0fb5/index.html</link>
-            <guid isPermaLink="false">67189ea5-00a4-4736-997e-ee03337b0fb5</guid>
-            <pubDate>Mon, 12 Oct 2015 01:32:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
