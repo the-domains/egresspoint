@@ -5,8 +5,15 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 16:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 16:33:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ShapeShift | The fastest way to swap cryptocurrencies. No account required.]]></title>
+            <description><![CDATA[<article><h1>ShapeShift | The fastest way to swap cryptocurrencies. No account required.</h1><p>ShapeShift.io is an instant exchange for cryptocurrencies. Buy or sell Bitcoin, Litecoin and other coins easily without an account. API available.</p><img src="https://shapeshift.io/images/coincap-logo-white.png"></article>]]></description>
+            <link>https://shapeshift.io/</link>
+            <guid isPermaLink="false">7d7c1e21-0194-4cf2-a2c5-6996876a2cd0</guid>
+            <pubDate>Mon, 12 Oct 2015 16:32:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wallet by BlockTrail - putting you in control of your bitcoin]]></title>
             <description><![CDATA[<article><h1>Wallet by BlockTrail - putting you in control of your bitcoin</h1><p>sign up for new Bitcoin Wallet by BlockTrail, and regain control of your bitcoin</p><img src="https://www.blocktrail.com/img/wallet-feature-img.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/egresspoint/f02b4edf-8042-477e-9400-c46ccad3c5fc/index.html</link>
             <guid isPermaLink="false">f02b4edf-8042-477e-9400-c46ccad3c5fc</guid>
             <pubDate>Mon, 12 Oct 2015 02:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Greatest Instruments]]></title>
-            <description><![CDATA[<article><h1>The Greatest Instruments</h1><p>"In the South Seas there is a cargo cult of people. During the war they saw airplanes with lots of good materials, and they want the same thing to happen now.</p><img src="http://greatestinstruments.net/wp-content/uploads/2014/08/Cargo-Cult-Small-web-550x290.jpg"></article>]]></description>
-            <link>http://greatestinstruments.net/</link>
-            <guid isPermaLink="false">dfbd2208-8359-4035-88e4-f2e098f82ebb</guid>
-            <pubDate>Mon, 12 Oct 2015 01:51:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
