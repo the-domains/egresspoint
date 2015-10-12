@@ -1,6 +1,6 @@
 name: EgressPoint
 favicon: null
-layout_spectrum: 0.3551
+layout_spectrum: 0.92653
 typography_spectrum: 0.77449
 title: 'To The Moon!'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#5f666e'
     - '#ffb2ae'
   brandStrength: 1
-  lightness: 0.4375
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
