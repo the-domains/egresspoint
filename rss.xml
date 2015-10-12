@@ -5,8 +5,15 @@
         <description><![CDATA[To The Moon!]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 16:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 16:19:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin wallet for trade in the free economy - Darkwallet]]></title>
+            <description><![CDATA[<article><h1>Bitcoin wallet for trade in the free economy - Darkwallet</h1><p>Darkwallet is a light browser wallet relying on an independent Bitcoin implementation with out-of-the-box security and privacy features.</p><img src="https://www.darkwallet.is/01/darkwallet-logo-small.png"></article>]]></description>
+            <link>https://www.darkwallet.is/</link>
+            <guid isPermaLink="false">8d264787-cb42-45bc-9dc1-c966824f4cae</guid>
+            <pubDate>Mon, 12 Oct 2015 16:17:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenBazaar]]></title>
             <description><![CDATA[<article><h1>OpenBazaar</h1><p></p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.augur.net/</link>
             <guid isPermaLink="false">f6fe57fc-2fc5-4252-9910-bc17985bd88e</guid>
             <pubDate>Sun, 11 Oct 2015 16:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/egresspoint/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">6d67d956-5dfd-4a38-bf3d-f6898b038ab0</guid>
-            <pubDate>Sun, 11 Oct 2015 15:13:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
