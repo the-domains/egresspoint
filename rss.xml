@@ -5,8 +5,29 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 16:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 16:45:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/0sByqE5.jpg">]]></description>
+            <link>https://thegrid.ai/egresspoint/d1af31fb-d171-45de-884b-328284235393/index.html</link>
+            <guid isPermaLink="false">d1af31fb-d171-45de-884b-328284235393</guid>
+            <pubDate>Mon, 12 Oct 2015 16:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.guerrillatranslation.org/wp-content/uploads/2014/11/Ethereum-2.jpg">]]></description>
+            <link>https://thegrid.ai/egresspoint/fd3233f6-3311-4fa4-9feb-2ea7cf1a8987/index.html</link>
+            <guid isPermaLink="false">fd3233f6-3311-4fa4-9feb-2ea7cf1a8987</guid>
+            <pubDate>Mon, 12 Oct 2015 16:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/LU0pDue.png">]]></description>
+            <link>https://thegrid.ai/egresspoint/6633f588-b96a-48c4-a5f7-eedb359869dd/index.html</link>
+            <guid isPermaLink="false">6633f588-b96a-48c4-a5f7-eedb359869dd</guid>
+            <pubDate>Mon, 12 Oct 2015 16:36:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ShapeShift | The fastest way to swap cryptocurrencies. No account required.]]></title>
             <description><![CDATA[<article><h1>ShapeShift | The fastest way to swap cryptocurrencies. No account required.</h1><p>ShapeShift.io is an instant exchange for cryptocurrencies. Buy or sell Bitcoin, Litecoin and other coins easily without an account. API available.</p><img src="https://shapeshift.io/images/coincap-logo-white.png"></article>]]></description>
@@ -48,34 +69,6 @@
             <link>https://openbazaar.org/</link>
             <guid isPermaLink="false">033d64cf-e90a-4c60-b340-683231fe06fd</guid>
             <pubDate>Mon, 12 Oct 2015 16:17:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>started</p>]]></description>
-            <link>https://thegrid.ai/egresspoint/started/index.html</link>
-            <guid isPermaLink="false">3c1ef049-9aa6-48d3-912f-c9e323384462</guid>
-            <pubDate>Mon, 12 Oct 2015 16:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1Broker - Bitcoin Forex and CFD Trading]]></title>
-            <description><![CDATA[<article><h1>1Broker - Bitcoin Forex and CFD Trading</h1><p>Bitcoin Forex and CFD Trading. Trade major currency pairs, indices, stocks and commodities with your Bitcoins feeless and with customizable leverages.</p><img src="https://1broker.com/img/logo100100.png"></article>]]></description>
-            <link>https://1broker.com/</link>
-            <guid isPermaLink="false">f3f23269-feff-4747-ad9d-7d520f40c4a8</guid>
-            <pubDate>Mon, 12 Oct 2015 16:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitstamp BTC/USD Charts - BitcoinWisdom]]></title>
-            <description><![CDATA[<article><h1>Bitstamp BTC/USD Charts - BitcoinWisdom</h1><p>Real-Time Bitstamp BTC/USD Market Charts.</p></article>]]></description>
-            <link>https://bitcoinwisdom.com/markets/bitstamp/btcusd</link>
-            <guid isPermaLink="false">411e1750-51cb-4e4b-a26d-ef5a06fec56a</guid>
-            <pubDate>Mon, 12 Oct 2015 02:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.huffpost.com/gen/1652863/images/o-BITCOIN-facebook.jpg">]]></description>
-            <link>https://thegrid.ai/egresspoint/f02b4edf-8042-477e-9400-c46ccad3c5fc/index.html</link>
-            <guid isPermaLink="false">f02b4edf-8042-477e-9400-c46ccad3c5fc</guid>
-            <pubDate>Mon, 12 Oct 2015 02:03:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
