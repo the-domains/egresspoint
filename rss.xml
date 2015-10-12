@@ -5,8 +5,15 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 16:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 17:59:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Great_Mosque_of_Kairouan_gallery.jpg">]]></description>
+            <link>https://thegrid.ai/egresspoint/e0c791cc-2ec6-4acc-a405-5cd5c7aa95f2/index.html</link>
+            <guid isPermaLink="false">e0c791cc-2ec6-4acc-a405-5cd5c7aa95f2</guid>
+            <pubDate>Mon, 12 Oct 2015 17:50:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/0sByqE5.jpg">]]></description>
@@ -62,13 +69,6 @@
             <link>https://www.darkwallet.is/</link>
             <guid isPermaLink="false">8d264787-cb42-45bc-9dc1-c966824f4cae</guid>
             <pubDate>Mon, 12 Oct 2015 16:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenBazaar]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar</h1><p></p></article>]]></description>
-            <link>https://openbazaar.org/</link>
-            <guid isPermaLink="false">033d64cf-e90a-4c60-b340-683231fe06fd</guid>
-            <pubDate>Mon, 12 Oct 2015 16:17:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
