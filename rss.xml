@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[To The Moon!]]></title>
-        <description><![CDATA[To The Moon!]]></description>
+        <title><![CDATA[EgressPoint]]></title>
+        <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 16:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 16:31:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wallet by BlockTrail - putting you in control of your bitcoin]]></title>
+            <description><![CDATA[<article><h1>Wallet by BlockTrail - putting you in control of your bitcoin</h1><p>sign up for new Bitcoin Wallet by BlockTrail, and regain control of your bitcoin</p><img src="https://www.blocktrail.com/img/wallet-feature-img.jpg"></article>]]></description>
+            <link>https://www.blocktrail.com/</link>
+            <guid isPermaLink="false">3df4c49e-dae3-4876-bae2-385fbfa22661</guid>
+            <pubDate>Mon, 12 Oct 2015 16:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Crowdsale, What's New and What's Next]]></title>
             <description><![CDATA[<article><h1>The Crowdsale, What's New and What's Next</h1><p>Augur's future after the crowdsale.</p><img src="http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,fl_progressive,h_1500,q_90,w_2000/v1/428927/f2_j92ldl_1_qy9ky9.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://greatestinstruments.net/</link>
             <guid isPermaLink="false">dfbd2208-8359-4035-88e4-f2e098f82ebb</guid>
             <pubDate>Mon, 12 Oct 2015 01:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Frontier]]></title>
-            <description><![CDATA[<article><h1>Ethereum Frontier</h1><p>Now it's your turn: start building what you dream of creating in Ethereum! Could your business be enhanced by operating on a cryptographically secure, decentralized, tamper proof network? Check out the many great projects already building on Ethereum.</p><img src="https://ethereum.org/images/wallpaper-medium.jpg"></article>]]></description>
-            <link>https://www.ethereum.org/</link>
-            <guid isPermaLink="false">14bbcf7f-adf1-48dd-a81a-649bd6b1ce77</guid>
-            <pubDate>Mon, 12 Oct 2015 01:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
