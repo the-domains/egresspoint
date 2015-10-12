@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[EgressPoint]]></title>
-        <description><![CDATA[EgressPoint]]></description>
+        <title><![CDATA[To The Moon!]]></title>
+        <description><![CDATA[To The Moon!]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 02:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 16:10:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1Broker - Bitcoin Forex and CFD Trading]]></title>
+            <description><![CDATA[<article><h1>1Broker - Bitcoin Forex and CFD Trading</h1><p>Bitcoin Forex and CFD Trading. Trade major currency pairs, indices, stocks and commodities with your Bitcoins feeless and with customizable leverages.</p><img src="https://1broker.com/img/logo100100.png"></article>]]></description>
+            <link>https://1broker.com/</link>
+            <guid isPermaLink="false">f3f23269-feff-4747-ad9d-7d520f40c4a8</guid>
+            <pubDate>Mon, 12 Oct 2015 16:09:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitstamp BTC/USD Charts - BitcoinWisdom]]></title>
             <description><![CDATA[<article><h1>Bitstamp BTC/USD Charts - BitcoinWisdom</h1><p>Real-Time Bitstamp BTC/USD Market Charts.</p></article>]]></description>
