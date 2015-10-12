@@ -1,6 +1,7 @@
 name: EgressPoint
 favicon: null
 layout_spectrum: 0.93062
+typography_spectrum: 0.93469
 cta:
   domain: null
   bucket: null
