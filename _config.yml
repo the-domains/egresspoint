@@ -2,6 +2,7 @@ name: EgressPoint
 favicon: null
 layout_spectrum: 0.28367
 typography_spectrum: 0.93469
+title: 'To The Moon!'
 cta:
   domain: null
   bucket: null
