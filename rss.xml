@@ -4,7 +4,7 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 16:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 16:11:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WeiFund - Crowdfunding Decentralized]]></title>
@@ -26,13 +26,6 @@
             <link>https://cyber.fund/welcome</link>
             <guid isPermaLink="false">ade763b1-0aec-4dd3-8624-b7f144765e51</guid>
             <pubDate>Sat, 17 Oct 2015 16:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home - help.riseup.net]]></title>
-            <description><![CDATA[<article><h1>Home - help.riseup.net</h1><p>In our seemingly continous saga to improve security for our users, we updated our certificates today to phase out some older crypto. Now we are using SHA256 and 4096bit certificates, this may result in very old clients (Windows XP SP2, Android 2.2) to no longer work.</p></article>]]></description>
-            <link>https://help.riseup.net/</link>
-            <guid isPermaLink="false">d04ff545-074c-4c7d-a2c6-725da88268c2</guid>
-            <pubDate>Sat, 17 Oct 2015 16:01:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Encrypted email, based in Switzerland.]]></title>
