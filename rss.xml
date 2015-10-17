@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[EgressPoint]]></title>
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 03:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 01:00:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gatecoin - Market Depth]]></title>
+            <description><![CDATA[<article><h1>Gatecoin - Market Depth</h1><p>Price Chart: BTCHKD, BTCUSD, BTCEUR, ETHBTC live trading price and depth on Gatecoin.</p><img src="https://gatecoin.com/public/img/logo-comodo-secure.png"></article>]]></description>
+            <link>https://gatecoin.com/marketDepth</link>
+            <guid isPermaLink="false">36492987-002f-460b-a35e-d251d1d33df9</guid>
+            <pubDate>Sat, 17 Oct 2015 00:59:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vaultoro.com The Bitcoin gold exchange]]></title>
             <description><![CDATA[<article><h1>Vaultoro.com The Bitcoin gold exchange</h1><p>Vaultoro.com trade bitcoin and gold in real time</p><img src="https://www.vaultoro.com/images/vault_door.jpg"></article>]]></description>
@@ -69,13 +75,6 @@
             <link>http://www.augur.net/blog/the-crowdsale-what-s-new-and-what-s-next</link>
             <guid isPermaLink="false">7f4f0593-5dbd-4f5c-b794-99dce49c5377</guid>
             <pubDate>Mon, 12 Oct 2015 16:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Counterparty]]></title>
-            <description><![CDATA[<article><h1>Counterparty</h1><p>Pioneering peer-to-peer finance</p><img src="http://counterparty.io/wp-content/uploads/2014/12/stage-home.png"></article>]]></description>
-            <link>http://counterparty.io/</link>
-            <guid isPermaLink="false">a02130ef-a867-41c9-b61d-a4dd57fe9386</guid>
-            <pubDate>Mon, 12 Oct 2015 16:17:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
