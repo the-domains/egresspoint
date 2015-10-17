@@ -4,8 +4,15 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 16:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 16:08:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WeiFund - Crowdfunding Decentralized]]></title>
+            <description><![CDATA[<article><h1>WeiFund - Crowdfunding Decentralized</h1><p>To use the WeiFund decentralized app (dApp), users will first open WeiFund in a web 3.0 enabled browser such as Ethereum's Mist. A user would then immediately be able to start, contribute to, browse, and manage crowdfunding campaigns.</p><img src="http://weifund.io/img/screen6.jpg"></article>]]></description>
+            <link>http://weifund.io/</link>
+            <guid isPermaLink="false">b9274c8e-f125-4213-a2e8-52444a73ff14</guid>
+            <pubDate>Sat, 17 Oct 2015 16:06:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pokereum Provably Fair Decentralized Poker]]></title>
             <description><![CDATA[<article><h1>Pokereum Provably Fair Decentralized Poker</h1><p>The pokereum DAO is a decentralized autonomous organisation, in more simple terms, its a collective of various entities, individuals and autonomous agents coorperating virtually without any geographical or jurisdictional limitations to acheive a commong goal : the longterm success of Pokereum.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/egresspoint/d1af31fb-d171-45de-884b-328284235393/index.html</link>
             <guid isPermaLink="false">d1af31fb-d171-45de-884b-328284235393</guid>
             <pubDate>Mon, 12 Oct 2015 16:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.guerrillatranslation.org/wp-content/uploads/2014/11/Ethereum-2.jpg">]]></description>
-            <link>https://thegrid.ai/egresspoint/fd3233f6-3311-4fa4-9feb-2ea7cf1a8987/index.html</link>
-            <guid isPermaLink="false">fd3233f6-3311-4fa4-9feb-2ea7cf1a8987</guid>
-            <pubDate>Mon, 12 Oct 2015 16:36:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
