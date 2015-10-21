@@ -4,8 +4,15 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 01:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 01:59:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://raw.githubusercontent.com/AugurProject/branding/master/augur_logo.png">]]></description>
+            <link>https://thegrid.ai/egresspoint/544c1b67-5b47-449b-af1e-3f5a906cf02d/index.html</link>
+            <guid isPermaLink="false">544c1b67-5b47-449b-af1e-3f5a906cf02d</guid>
+            <pubDate>Wed, 21 Oct 2015 01:58:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Blockchain</p>]]></description>
