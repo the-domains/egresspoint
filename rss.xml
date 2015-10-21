@@ -4,7 +4,7 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 01:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 02:33:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +47,6 @@
             <link>https://www.coinigy.com/</link>
             <guid isPermaLink="false">056aff8e-4ef4-4623-89f9-dfd89fdd55ec</guid>
             <pubDate>Mon, 12 Oct 2015 19:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/0sByqE5.jpg">]]></description>
-            <link>https://thegrid.ai/egresspoint/d1af31fb-d171-45de-884b-328284235393/index.html</link>
-            <guid isPermaLink="false">d1af31fb-d171-45de-884b-328284235393</guid>
-            <pubDate>Mon, 12 Oct 2015 16:42:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
