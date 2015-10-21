@@ -4,8 +4,15 @@
         <description><![CDATA[EgressPoint]]></description>
         <link>https://thegrid.ai/egresspoint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 01:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 01:58:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egresspoint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Blockchain</p>]]></description>
+            <link>https://thegrid.ai/egresspoint/blockchain/index.html</link>
+            <guid isPermaLink="false">9f010798-7e18-42be-9f62-30ff8e1f2c15</guid>
+            <pubDate>Wed, 21 Oct 2015 01:58:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WeiFund - Crowdfunding Decentralized]]></title>
             <description><![CDATA[<article><h1>WeiFund - Crowdfunding Decentralized</h1><p>To use the WeiFund decentralized app (dApp), users will first open WeiFund in a web 3.0 enabled browser such as Ethereum's Mist. A user would then immediately be able to start, contribute to, browse, and manage crowdfunding campaigns.</p><img src="http://weifund.io/img/screen6.jpg"></article>]]></description>
